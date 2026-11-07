@@ -1,0 +1,24 @@
+== Frontend build ==
+
+  dist/app.js      208.4kb
+  dist/app.js.map  924.8kb
+
+⚡ Done in 80ms
+Build OK: dist/app.js
+
+== py_compile ==
+OK
+
+== Backend tests ==
+test_all_strong_is_100 (__main__.Backend.test_all_strong_is_100) ... ok
+test_health_and_roles (__main__.Backend.test_health_and_roles) ... ok
+test_path_orders_biggest_gap_first (__main__.Backend.test_path_orders_biggest_gap_first) ... ok
+test_score_endpoint_and_progress (__main__.Backend.test_score_endpoint_and_progress) ... ok
+test_scoring_good_vs_poor (__main__.Backend.test_scoring_good_vs_poor) ... ok
+test_tamil_answer_matches_tamil_keywords (__main__.Backend.test_tamil_answer_matches_tamil_keywords) ... ok
+test_word_count_tamil_and_hindi (__main__.Backend.test_word_count_tamil_and_hindi) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.012s
+
+OK
